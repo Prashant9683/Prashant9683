@@ -67,7 +67,7 @@
 
 <a href = "www.linkedin.com/in/prashant-gehlot9683"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Prashan43360281"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670274.png?token=exp=1641703463~hmac=e5e2f202fa331e152149bc53bdf34a69"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
