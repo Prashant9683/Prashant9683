@@ -3,7 +3,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant Gehlot</h1>
-<p align="center"><a href="https://github.com/Prashant9683"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%" style="transform: rotate(180deg);"/></a></p>
+<p align="center"><a href="https://github.com/Prashant9683"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%" style="transform: rotate(90deg);"/></a></p>
 <h3 align="center">I'm a student of Amrita School of Engineering, Amritapuri, Kerala (India).</h3>
 
 ## 🙋‍♂️ About Me
