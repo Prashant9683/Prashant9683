@@ -74,7 +74,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Prashant9683/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Prashant9683">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Prashant9683?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Prashant9683?tab=followers"><img src="https://img.shields.io/github/followers/Prashant9683?label=Followers&style=social" alt="GitHub Badge"></a>
