@@ -66,9 +66,11 @@
 
 <p align="left">
 
-<a href = "www.linkedin.com/in/prashant-gehlot9683"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Prashan43360281"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "www.linkedin.com/in/prashant-gehlot9683"><img src="https://img.icons8.com/plumpy/48/000000/linkedin-circled.png"/></a>
+<a href = "https://twitter.com/Prashan43360281"><img src="https://img.icons8.com/material-rounded/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://img.icons8.com/material-rounded/48/000000/instagram-new.png"/></a>
+<a href = "https://www.hackerrank.com/gehlotprashant91"><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
+
 
 </p>
 
