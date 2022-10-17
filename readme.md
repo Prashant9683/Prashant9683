@@ -66,10 +66,14 @@
 
 <p align="left">
 
-<a href = "www.linkedin.com/in/prashant-gehlot9683"><img src="https://img.icons8.com/plumpy/48/000000/linkedin-circled.png"/></a>
-<a href = "https://twitter.com/Prashan43360281"><img src="https://img.icons8.com/material-rounded/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://img.icons8.com/material-rounded/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/gehlotprashant91"><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
+<a href = "https://linkedin.com/in/prashant-gehlot"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn" title="LinkedIn"/></a>
+<a href = "https://twitter.com/Prashan43360281"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" title="Twitter"/></a>
+<a href = "https://www.instagram.com/prashant.gehlot/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram"/></a>
+<a href = "https://www.hackerrank.com/gehlotprashant91"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" title="HackerRank"/></a>
+<a href = "https://www.codechef.com/users/prashant9683"><img src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="CodeChef" title="CodeChef"/></a>
+<a href = "https://codeforces.com/profile/Prashant968"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces"/></a>
+<a href = "https://leetcode.com/Prashant_gehlot968"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode"/></a>
+<a href = "mailto:gehlotprashant968@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail--v1.png" alt="Gmail" title="Gmail"/></a>
 
 
 </p>
