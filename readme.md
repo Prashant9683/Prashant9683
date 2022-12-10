@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/004/491/062/original/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant Gehlot</h1>
+<h1 align="center">Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant Gehlot</h1>
 <h3 align="center">I'm a student of Amrita School of Engineering, Amritapuri, Kerala (India).</h3>
 
 ## 🙋‍♂️ About Me
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
 
 <p align="left">
 
