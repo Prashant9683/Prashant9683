@@ -88,3 +88,8 @@
     <img src="https://komarev.com/ghpvc/?username=Prashant9683">
 </a>
 <a href="https://github.com/Prashant9683?tab=followers"><img src="https://img.shields.io/github/followers/Prashant9683?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
+<br>
+
+<p align="center"><a href="https://github.com/Prashant9683/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
