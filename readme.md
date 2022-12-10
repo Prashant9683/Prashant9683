@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms** & **Web Development**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Prashant9683/github-readme-activity-graph"><img alt="Prashant9683 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant9683&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Prashant9683/github-readme-activity-graph"><img alt="Prashant9683 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant9683&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
