@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
+<h2 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%; font-weight: bold;"></h2>
 
 <p align="left">
 
