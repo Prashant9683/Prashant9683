@@ -37,7 +37,7 @@
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Strawberry Badge](https://img.shields.io/badge/-Strawberry-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-007acc?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-3C873A?style=for-the-badge&labelColor=black&logo=graphql&logoColor=3C873A)](#) [![Strawberry Badge](https://img.shields.io/badge/-Strawberry-e535ab?style=for-the-badge&labelColor=black&logo=strawberry&logoColor=e535ab)](#)
 <br/>
 
 <p align="center">
